@@ -9,7 +9,7 @@ EduNexus (AIC Portal) is an AI-powered **Academia–Industry Collaboration Platf
 
 ## 📄 View Prototype
 
-> **➡️ [Open AIC Portal Prototype (PDF)](./AIC-Portal%20Report.pdf)**
+👉 [View Complete AIC Portal Report](./AIC%20REPORT.pdf)
 
 
 
